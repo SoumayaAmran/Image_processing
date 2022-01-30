@@ -19,7 +19,6 @@ Il a 2 classes différentes de cancer de la peau qui sont listées ci-dessous :
 1. Benign 
 2. Malignant
 
-![image](https://user-images.githubusercontent.com/77694973/151700191-0a98d4a6-6c2c-4bd5-baf9-f2b87f356b04.png![téléchargement](https://user-images.githubusercontent.com/77694973/151700206-cd1389f9-ecde-400d-94de-fbf6f46d53b2.jpg)
 
 ![types-of-skin-cancer-pictures-1560292088](https://user-images.githubusercontent.com/77694973/151700222-50f3c066-a6a1-4752-bcb4-1c88e617878b.png)
 
